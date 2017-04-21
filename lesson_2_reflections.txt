@@ -2,7 +2,7 @@ What happens when you initialize a repository? Why do you need to do it?
 
 	When I initialize a repostory in a directory a new directory called ".git"
 	is added to the directory and I can use git commands such as "git status" and 
-	"git log".
+	"git log". I need them to see the history of files I am working on.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
@@ -43,5 +43,5 @@ manually?
 	* Automatic merging seems efficient when conflicts are not there.
 
 	Cons:
-	* Can be potentially harmful. One example is when two same functions
+	* Can be potentially harmful or useless. One example is when two same functions
 	  with different names are added.
