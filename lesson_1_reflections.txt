@@ -10,7 +10,7 @@ efficient programmer in the long term?
 
     Having easy access to the entire history of a file makes me allow to backtrace
     to any point and thus carry on development work without manually caring for
-    the changes that I am indroducing.
+    the changes that I am introducing.
 
 What do you think are the pros and cons of manually choosing when to create a
 commit, like you do in Git, vs having versions automatically saved, like Google
