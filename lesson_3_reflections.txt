@@ -33,3 +33,12 @@ be harder?
 
 	Saving files will be easier. Managing previous versions and collaborating on same
 	code at same time would be harder as merge wouldn't be possible.
+
+When would you want to make changes in a separate branch rather than directly in master? What
+benefits does each approach have?
+
+	I would make changes in separate branch when I am working with a large group so that I
+	don't change the master branch often. This approach allows to collaborate with ease.
+
+	When working on a small project that involves only me, I would make changes directly to
+	master branch.
